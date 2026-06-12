@@ -111,7 +111,7 @@ The system helps developers and students improve code quality while reducing the
 
 ### Rule-Based Validation Engine
 
-![Rule Engine]((https://raw.githubusercontent.com/Pranithagotur/AI-CODE_REVIEWER/main/Screenshots/rule-engine.png)
+![Rule Engine](https://raw.githubusercontent.com/Pranithagotur/AI-CODE_REVIEWER/main/Screenshots/rule-engine.png)
 
 *Performs static analysis using predefined coding standards and validation rules.*
 
