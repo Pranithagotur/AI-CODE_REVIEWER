@@ -96,15 +96,14 @@ The system helps developers and students improve code quality while reducing the
 
 ### Homepage / Workspace
 
-![Homepage](./screenshots/homepage.png)
-
+![Homepage](https://raw.githubusercontent.com/Pranithagotur/AI-CODE_REVIEWER/main/Screenshots/homepage.png)
 *Main workspace where users can write code, select a programming language, and initiate code reviews.*
 
 ---
 
 ### AI Feedback Module
 
-![AI Feedback](./screenshots/ai-feedback.png)
+![AI Feedback](https://raw.githubusercontent.com/Pranithagotur/AI-CODE_REVIEWER/main/Screenshots/homepage.png)
 
 *Displays AI-generated code review feedback, optimization suggestions, code quality analysis, and complexity estimation.*
 
@@ -112,7 +111,7 @@ The system helps developers and students improve code quality while reducing the
 
 ### Rule-Based Validation Engine
 
-![Rule Engine](./screenshots/rule-engine.png)
+![Rule Engine]((https://raw.githubusercontent.com/Pranithagotur/AI-CODE_REVIEWER/main/Screenshots/rule-engine.png)
 
 *Performs static analysis using predefined coding standards and validation rules.*
 
@@ -120,7 +119,7 @@ The system helps developers and students improve code quality while reducing the
 
 ### Runtime Execution Console
 
-![Runtime Console](./screenshots/runtime-console.png)
+![Runtime Console](https://raw.githubusercontent.com/Pranithagotur/AI-CODE_REVIEWER/main/Screenshots/runtime-console.png)
 
 *Executes source code in a secure sandbox environment and detects runtime exceptions and execution errors.*
 
